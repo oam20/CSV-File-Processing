@@ -1,0 +1,6 @@
+name,age,email,salary
+John Doe,30,john@example.com,50000
+Jane Smith,25,jane@example.com,45000
+Bob Johnson,abc,bob@example.com,60000
+Alice Brown,28,,55000
+Charlie Wilson,35,charlie@example.com,70000
